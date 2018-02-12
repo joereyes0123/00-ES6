@@ -22,10 +22,10 @@ Follow these instructions carefully and in order.
 
 ##### Investigate how `let` and `const` are now used in the code. Where did you need to convert `const` into `let` to make the code work? Can you identify any patterns/similarities?
 
-(Put your answer here)
+Worked as intended, the only times you an error was seen was when a const needed to be reasiggned somewhere in the code.
 
 ---
 
 ##### How did it go with making the adaptation from concatenations to template literal notation? Do you think you'll mostly use template literal notation from now on?
 
-(Put your answer here)
+I did not find this useful. Its easier to raed but I feel I replacing one tedious piece of instruction for another. I will use literal from now om though. 
